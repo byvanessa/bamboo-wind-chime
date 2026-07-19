@@ -1,8 +1,7 @@
 # Tilim 風鈴
 
 **Uma companhia de pausa e foco.** Um carrilhão de vento interativo para
-deixar aberto enquanto você trabalha — volte o olhar por alguns segundos,
-toque de leve, organize o dia em post-its, e siga.
+deixar aberto enquanto você trabalha, estuda ou precisa de uma pausa — organize o dia em post-its, e relaxe.
 
 ![Tilim — carrilhão sob o telhado, post-its e vagalumes no modo noturno](docs/screenshot.png)
 
@@ -29,6 +28,9 @@ toque de leve, organize o dia em post-its, e siga.
   folhas caindo ou vagalumes, tigela cantante no hover prolongado
 - **Responsivo** — desktop, tablet e mobile (toque = vento e dedilhada;
   controles migram para uma barra inferior compacta)
+
+_  *Inspirado em wind chimes de Marina Budarina.
+_
 
 ## Stack
 
